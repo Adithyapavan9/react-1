@@ -1,0 +1,34 @@
+/* src/components/C1.css */
+body {
+    background-color: #fff; /* Set the background color of the entire page to white */
+  }
+  
+  .word-counter {
+    background-color: #fff; /* Set the background color for the specific component to white */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .text-area {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .word-count-text {
+    font-size: 1rem;
+    margin-top: 10px;
+    color: black; /* Added to set the text color to black */
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: black; /* Added to set the heading color to black */
+  }
+  
